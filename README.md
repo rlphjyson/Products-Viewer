@@ -1,4 +1,4 @@
-# Products Viewer x Sprout Solutions
+# Products Viewer x Sprout 
 
 Welcome to the Products Viewer application! This README will guide you through the setup and running of the project.
 
